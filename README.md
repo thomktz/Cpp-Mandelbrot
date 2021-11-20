@@ -38,10 +38,10 @@ Click [here](https://user-images.githubusercontent.com/60552083/142724864-6af6c9
 ### Speed
 For a benchmark image (1000x1000, 500it)
 
-Basic python implementation : 72s
-Parallelized numpy : 0.512s
-My package (1 core CPU): 0.492s
-My package (8 logical cores, CPU) : 0.129s
+Basic python implementation : 72s  
+Parallelized numpy : 0.512s  
+My package (1 core CPU): 0.492s  
+My package (8 logical cores, CPU) : 0.129s  
 
 ### Results
 
