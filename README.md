@@ -18,7 +18,7 @@ A point inside will typically be colored black.
 The typical way to color the rest of the set (the outside points) is to have the color as a function of the number of iterations before escaping the radius (c.f. previous image). 
 However, the coloring technique here is called average stripe coloring and works as such :
 
-The 'orbit' is the collection on the points (f_i) mapped by a function. Then, by taking the average of the mapped orbits and mapping that number to a color, you get a coloring that can look like this :
+The 'orbit' is the collection of the points (f_i) which are then mapped by a function. By taking the average of the mapped orbits and mapping that number to a color, you get a coloring that can look like this :
 
 ![zoom00000](https://user-images.githubusercontent.com/60552083/142724184-e7d7266a-09ac-4356-967b-30e451808ae2.jpeg)
 
