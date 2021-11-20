@@ -23,6 +23,14 @@ The 'orbit' is the collection on the points (f_i) mapped by a function. Then, by
 ![zoom00000](https://user-images.githubusercontent.com/60552083/142724184-e7d7266a-09ac-4356-967b-30e451808ae2.jpeg)
 
 
+To have an output between 0 and 1, the function is chosen as such :  
+
+![gif](https://user-images.githubusercontent.com/60552083/142729011-5d14ad29-b610-4523-9eb9-3b7d93ef5b08.gif)  
+
+with the stripe density, s_d visually chosen to be 2.
+
+
+
 ### Number of iterations
 
 The number `n` of maximum iterations is a very important parameter, since it determines both the quality and precision of the image but also the speed at which it renders.  
