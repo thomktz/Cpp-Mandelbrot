@@ -34,3 +34,24 @@ Here is the effect of the parameter on a certain zoomed point of the complex pla
 
 Click [here](https://user-images.githubusercontent.com/60552083/142724864-6af6c98b-1e82-4703-807f-cbebb0f2969d.jpeg) to see a 8000x8000 image at 1500 iterations of the same part of the complex plane
 
+
+### Speed
+For a benchmark image (1000x1000, 500it)
+
+Basic python implementation : 72s
+Parallelized numpy : 0.512s
+My package (1 core CPU): 0.492s
+My package (8 logical cores, CPU) : 0.129s
+
+### Results
+
+All found in one sontinuous zoom to the point -1.62411991934 + i * (-0.00013088927)
+
+![zoom00000](https://user-images.githubusercontent.com/60552083/142725446-b9f339e6-66f1-47b6-a9aa-d77af46fed24.jpeg)
+![zoom00266](https://user-images.githubusercontent.com/60552083/142725462-61a7fdbe-9233-478f-9629-618bbf320a5b.jpeg)
+![zoom00613](https://user-images.githubusercontent.com/60552083/142725481-075ea0f8-4bc4-43e3-8687-79d8da7e8d7a.jpeg)
+![zoom00925](https://user-images.githubusercontent.com/60552083/142725498-6d25b859-e8a0-4be3-b3ba-5ea794e03aa6.jpeg)
+![zoom01337](https://user-images.githubusercontent.com/60552083/142725519-6f07533f-d718-45a4-9d19-754d4d5b2ce3.jpeg)
+
+
+
