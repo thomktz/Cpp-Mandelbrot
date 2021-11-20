@@ -34,7 +34,7 @@ This output is then put into a matplotlib colormap to have RGB values.
 ### Number of iterations
 
 The number `n` of maximum iterations is a very important parameter, since it determines both the quality and precision of the image but also the speed at which it renders.  
-A typical image generated is 1000 by 1000 pixels, and each of them will be iterated through the process of z²+c `n` times, and then be taken through the average stripe coloring prcess.
+A typical image is 1000 by 1000 pixels, and each of the pixels will be iterated through the process of z²+c `n` times, and then be taken through the average stripe coloring prcess.
 
 Here is the effect of the parameter on a certain zoomed point of the complex plane :
 
