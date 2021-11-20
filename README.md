@@ -32,5 +32,5 @@ Here is the effect of the parameter on a certain zoomed point of the complex pla
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/60552083/142724790-60e06e98-ce19-4f34-8813-45e6e55b57f2.gif)
 
-![nice_spiral_big](https://user-images.githubusercontent.com/60552083/142724864-6af6c98b-1e82-4703-807f-cbebb0f2969d.jpeg)
+https://user-images.githubusercontent.com/60552083/142724864-6af6c98b-1e82-4703-807f-cbebb0f2969d.jpeg
 
