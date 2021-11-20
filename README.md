@@ -27,8 +27,8 @@ To have an output between 0 and 1, the function is chosen as such :
 
 ![gif](https://user-images.githubusercontent.com/60552083/142729011-5d14ad29-b610-4523-9eb9-3b7d93ef5b08.gif)  
 
-with the stripe density, s_d visually chosen to be 2.
-
+with the stripe density, s_d visually chosen to be 2.   
+This output is then put into a matplotlib colormap to have RGB values.
 
 
 ### Number of iterations
