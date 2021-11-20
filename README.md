@@ -30,5 +30,6 @@ A typical image generated is 1000 by 1000 pixels, and each of them will be itera
 
 Here is the effect of the parameter on a certain zoomed point of the complex plane :
 
-https://user-images.githubusercontent.com/60552083/142724419-e9a3317e-15be-4db4-9b3d-680bed44765f.mp4
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/60552083/142724790-60e06e98-ce19-4f34-8813-45e6e55b57f2.gif)
+
 
